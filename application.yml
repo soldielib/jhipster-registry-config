@@ -14,5 +14,5 @@ jhipster:
             jwt:
                 secret: MDc5ZGNjMjBmYzM4M2VjOThjOWRlYmFlZWRlZWFmM2I3OTkxZjlhNTIyMGEyMmMwMGZmOTZjNDg0YWY2OTAzMjY1MGI1MzRiYjEwMmIzODNhODk4NmU1NTA4Y2ZkYTc5ZDE5YzBiZjE3YzEwYjM2MTYwNzA2MDc2ZDUzMGQ1N2U=
                 
-application:
+app:
     say: hello
